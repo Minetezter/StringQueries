@@ -1,0 +1,30 @@
+{
+    "name": "StringQueries",
+    "version": "0.0.1",
+    "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+    "description": "A useful JavaScript module for parsing JS expressions in HTML",
+    "homepage": "https://github.com/Minetezter/StringQueries",
+    "bug tracker": "https://github.com/Minetezter/StringQueries/issues",
+    "main": "./src/StringQueries.js",
+    "readme": "README.md",
+    "authors": {
+        "name": "Minetester",
+        "email": "minetezter@protonmail.com"
+    },
+    "files": [
+        "src"
+    ],
+    "publishConfig": {
+        "access": "public",
+        "tag": "latest"
+    },
+    "keywords": [
+        "html",
+        "expressions",
+        "running",
+        "time-saving",
+        "easy",
+        "Minetezter",
+        "StringQueries"
+    ]
+}
