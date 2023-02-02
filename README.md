@@ -32,7 +32,7 @@ EXAMPLE:
   Please keep in mind that that was just an example!
   You can go much more advanced with it.
 
-Go here for more examples! [HTML usage example](https://github.com/Minetezter/StringQueries/blob/main/usage_example.html)
+Go here for more examples! [HTML usage example](https://raw.githubusercontent.com/Minetezter/StringQueries/main/usage_example.html)
 
 ===========================================================
 
