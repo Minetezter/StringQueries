@@ -1,5 +1,4 @@
-"use strict";
-scan = function() {
+function scan() {
     const dom = document.body.innerHTML.replace(/{/g, 'ᝰ').replace(/}/g, 'ᝰ').split('ᝰ');
     
     for (let i = 0; i < dom.length; i++) {
