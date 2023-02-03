@@ -37,7 +37,11 @@ Go here for more examples! [HTML usage example](https://raw.githubusercontent.co
 ===========================================================
 
 Please Enjoy using the awesome new JS module!
-You can link you scripts to this GitHub file directly!
+You can link you script tags to this: https://www.trinket-shell.com/c1865ae9ad9cbe92/StringQueries.js
+MAKE SURE YOU DO NOT LINK YOUR SCRIPTS TO THE RAW GITHUB FILE! THIS WILL NOT WORK!!!
+
+# USE THIS INSTEAD!!! [Source JS Script](https://www.trinket-shell.com/c1865ae9ad9cbe92/StringQueries.js)
+**If That does not work, you report it as a bug. (This probably means the location for www.trinket-shell.com has expired)**
 
 # Please Enjoy using StringQueries!
 

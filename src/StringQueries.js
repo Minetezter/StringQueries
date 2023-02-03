@@ -52,6 +52,3 @@ Please Enjoy using the awesome new JS module!
 You can link you scripts to this GitHub file directly!
 
 */
-
-
-
