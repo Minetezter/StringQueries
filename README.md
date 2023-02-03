@@ -40,7 +40,7 @@ Please Enjoy using the awesome new JS module!
 You can link you script tags to this: https://www.trinket-shell.com/20d675b00b703a82/StringQueries.js
 MAKE SURE YOU DO NOT LINK YOUR SCRIPTS TO THE RAW GITHUB FILE! THIS WILL NOT WORK!!!
 
-# USE THIS INSTEAD!!! [Source JS Script](https://www.trinket-shell.com/20d675b00b703a82/StringQueries.js)
+# USE THIS INSTEAD!!! [Source JS Script](https://www.trinket-shell.com/f62dc00ba3d14b32/StringQueries.js)
 **If That does not work, you report it as a bug. (This probably means the location for www.trinket-shell.com has expired)**
 
 # Please Enjoy using StringQueries!
